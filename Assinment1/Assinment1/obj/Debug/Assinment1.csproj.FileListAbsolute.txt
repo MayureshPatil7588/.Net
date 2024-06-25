@@ -1,0 +1,7 @@
+C:\Users\Group034\Desktop\DotNet\.Net\Assinment1\Assinment1\bin\Debug\Assinment1.exe.config
+C:\Users\Group034\Desktop\DotNet\.Net\Assinment1\Assinment1\bin\Debug\Assinment1.exe
+C:\Users\Group034\Desktop\DotNet\.Net\Assinment1\Assinment1\bin\Debug\Assinment1.pdb
+C:\Users\Group034\Desktop\DotNet\.Net\Assinment1\Assinment1\obj\Debug\Assinment1.csproj.AssemblyReference.cache
+C:\Users\Group034\Desktop\DotNet\.Net\Assinment1\Assinment1\obj\Debug\Assinment1.csproj.CoreCompileInputs.cache
+C:\Users\Group034\Desktop\DotNet\.Net\Assinment1\Assinment1\obj\Debug\Assinment1.exe
+C:\Users\Group034\Desktop\DotNet\.Net\Assinment1\Assinment1\obj\Debug\Assinment1.pdb

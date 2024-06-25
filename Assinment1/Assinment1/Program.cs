@@ -10,6 +10,8 @@ namespace Assinment1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome To Mayuresh's Home");
+            Console.ReadKey();
         }
     }
 }
