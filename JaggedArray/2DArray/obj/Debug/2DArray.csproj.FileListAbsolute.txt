@@ -1,0 +1,7 @@
+C:\Users\Group034\Desktop\DotNet\JaggedArray\2DArray\bin\Debug\2DArray.exe.config
+C:\Users\Group034\Desktop\DotNet\JaggedArray\2DArray\bin\Debug\2DArray.exe
+C:\Users\Group034\Desktop\DotNet\JaggedArray\2DArray\bin\Debug\2DArray.pdb
+C:\Users\Group034\Desktop\DotNet\JaggedArray\2DArray\obj\Debug\2DArray.csproj.AssemblyReference.cache
+C:\Users\Group034\Desktop\DotNet\JaggedArray\2DArray\obj\Debug\2DArray.csproj.CoreCompileInputs.cache
+C:\Users\Group034\Desktop\DotNet\JaggedArray\2DArray\obj\Debug\2DArray.exe
+C:\Users\Group034\Desktop\DotNet\JaggedArray\2DArray\obj\Debug\2DArray.pdb

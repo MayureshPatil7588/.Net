@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Group034\\source\\repos\\22Assignments\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{802AC84E-2C34-4C35-832C-B9213C95ABB3}|22Assignments\\22Assignments.csproj|c:\\users\\group034\\source\\repos\\22assignments\\22assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802AC84E-2C34-4C35-832C-B9213C95ABB3}|22Assignments\\22Assignments.csproj|solutionrelative:22assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802AC84E-2C34-4C35-832C-B9213C95ABB3}|22Assignments\\22Assignments.csproj|c:\\users\\group034\\source\\repos\\22assignments\\22assignments\\hardadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802AC84E-2C34-4C35-832C-B9213C95ABB3}|22Assignments\\22Assignments.csproj|solutionrelative:22assignments\\hardadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Group034\\Desktop\\DotNet\\.Net\\22Assignments\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 306,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HardAdd.cs",
-              "DocumentMoniker": "C:\\Users\\Group034\\source\\repos\\22Assignments\\22Assignments\\HardAdd.cs",
-              "RelativeDocumentMoniker": "22Assignments\\HardAdd.cs",
-              "ToolTip": "C:\\Users\\Group034\\source\\repos\\22Assignments\\22Assignments\\HardAdd.cs",
-              "RelativeToolTip": "22Assignments\\HardAdd.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T10:18:00.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Group034\\source\\repos\\22Assignments\\22Assignments\\Program.cs",
-              "RelativeDocumentMoniker": "22Assignments\\Program.cs",
-              "ToolTip": "C:\\Users\\Group034\\source\\repos\\22Assignments\\22Assignments\\Program.cs",
-              "RelativeToolTip": "22Assignments\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T08:44:14.417Z",
-              "EditorCaption": ""
             }
           ]
         },
